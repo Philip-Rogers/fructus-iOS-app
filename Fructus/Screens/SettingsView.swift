@@ -79,7 +79,7 @@ struct SettingsView: View {
                         SettingsRowView(name: "Compatibility", content: "iOS 15")
                         SettingsRowView(name: "Website", linkLabel: "SwiftUI Masterclass", linkDestination: "swiftuimasterclass.com")
                         SettingsRowView(name: "Twitter", linkLabel: "@RobertPetras", linkDestination: "twitter.com/robertpetras")
-                        SettingsRowView(name: "SwiftUI", content: "2.0")
+                        SettingsRowView(name: "SwiftUI", content: "3.0")
                         SettingsRowView(name: "Version", content: "1.1.0")
                     } //: BOX
                     
